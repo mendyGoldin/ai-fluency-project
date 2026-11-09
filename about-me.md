@@ -1,4 +1,4 @@
 # About me
 
-Name: Alon
-Faculty: Chemical Engineering
+Name: Menachem Goldin
+Faculty: Electrical Engineering
